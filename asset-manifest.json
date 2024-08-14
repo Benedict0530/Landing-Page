@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.624e82fe.css",
-    "main.js": "/static/js/main.092d1b80.js",
+    "main.js": "/static/js/main.84fb5c13.js",
     "static/js/453.7ee4257d.chunk.js": "/static/js/453.7ee4257d.chunk.js",
     "static/media/lightningreels.png": "/static/media/lightningreels.bd4b3c10d43f07e4d67a.png",
     "static/media/starlightfortune.png": "/static/media/starlightfortune.27155ed16e5d3425cb33.png",
@@ -12,11 +12,11 @@
     "static/media/luckyfortunedragon.png": "/static/media/luckyfortunedragon.e2b04feee0350d7e4161.png",
     "index.html": "/index.html",
     "main.624e82fe.css.map": "/static/css/main.624e82fe.css.map",
-    "main.092d1b80.js.map": "/static/js/main.092d1b80.js.map",
+    "main.84fb5c13.js.map": "/static/js/main.84fb5c13.js.map",
     "453.7ee4257d.chunk.js.map": "/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.624e82fe.css",
-    "static/js/main.092d1b80.js"
+    "static/js/main.84fb5c13.js"
   ]
 }
