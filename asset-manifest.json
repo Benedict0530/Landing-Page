@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.3de0bb6a.css",
-    "main.js": "/static/js/main.894b2081.js",
+    "main.css": "/static/css/main.624e82fe.css",
+    "main.js": "/static/js/main.20f54374.js",
     "static/js/453.7ee4257d.chunk.js": "/static/js/453.7ee4257d.chunk.js",
     "static/media/lightningreels.png": "/static/media/lightningreels.bd4b3c10d43f07e4d67a.png",
     "static/media/starlightfortune.png": "/static/media/starlightfortune.27155ed16e5d3425cb33.png",
     "static/media/zeusfortunepalace.png": "/static/media/zeusfortunepalace.99357316538bd3ef8db0.png",
+    "static/media/hiphoptigerbeats.png": "/static/media/hiphoptigerbeats.ee1a428290b64aba63a9.png",
     "static/media/starlightqueen.png": "/static/media/starlightqueen.cbcf379d207072b33ce0.png",
+    "static/media/luckyrabbitreels.png": "/static/media/luckyrabbitreels.239a91420ac8dc89fc6a.png",
+    "static/media/luckyfortunedragon.png": "/static/media/luckyfortunedragon.e2b04feee0350d7e4161.png",
     "index.html": "/index.html",
-    "main.3de0bb6a.css.map": "/static/css/main.3de0bb6a.css.map",
-    "main.894b2081.js.map": "/static/js/main.894b2081.js.map",
+    "main.624e82fe.css.map": "/static/css/main.624e82fe.css.map",
+    "main.20f54374.js.map": "/static/js/main.20f54374.js.map",
     "453.7ee4257d.chunk.js.map": "/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3de0bb6a.css",
-    "static/js/main.894b2081.js"
+    "static/css/main.624e82fe.css",
+    "static/js/main.20f54374.js"
   ]
 }
